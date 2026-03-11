@@ -1,0 +1,2 @@
+#write pythone code to read the content of the file test.txt and print it to the consolewith open('test.txt', 'r') as file:
+    content = file.read()   print(content)              
